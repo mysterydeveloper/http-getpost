@@ -6,7 +6,7 @@ In this exercise we will look at the HTTP GET and POST request methods.
 
 1. Download the files in this repository and place them in the same directory as curl.exe and node.exe.
 
-1. Open the command prompt and change to the directory where you have downloaded the files in this repository. Run 'curl google.ie' to check that curl works. Then run 'node http.js'. Open your browser and go to the URL 'http://localhost:8888'. Check the output in the Command Prompt window.
+1. Open the command prompt and change to the directory where you have downloaded the files in this repository. Run 'curl google.ie' to check that curl works. Then run 'node http.js'. Open your browser and go to the URL 'http://localhost:8000'. Check the output in the Command Prompt window.
 
 1. Open a second command prompt to examine Use the command 'curl -v 127.0.0.1:8000'. Examine the request and response in plain text.
 
