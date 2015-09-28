@@ -2,7 +2,7 @@
 In this exercise we will look at the HTTP GET and POST request methods.
 
 ## Exercises
-1. Download node.exe from [here](https://nodejs.org/dist/latest/win-x64/), and curl.exe from [here](http://www.paehl.com/open_source/?CURL_7.44.0).
+1. Download node.exe from [here](https://nodejs.org/dist/latest/win-x64/), and curl.exe from [here](http://www.paehl.com/open_source/?CURL_7.44.0). You can use the "Without SSL" download option for curl.
 
 1. Download the files in this repository and place them in the same directory as curl.exe and node.exe.
 
